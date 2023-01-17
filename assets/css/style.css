@@ -1,0 +1,59 @@
+body{
+  background-color: rgb(237, 242, 246);
+}
+
+div nav{
+  background-color: #264653; 
+  border-radius: 15px;
+}
+div ul{
+  background-color: #264653;
+  border-radius: 10px;
+}
+
+div .card{
+  border-radius: 15px;
+}
+
+.table {
+  margin-bottom: 0;
+}
+tfoot.table tr td {
+  min-height: 43px;
+}
+
+tfoot.table{
+  background-color:#88C1CA;
+}
+
+thead.table{
+  background-color:#5A8A98; 
+  color: white;
+  height: 67px;
+  vertical-align: middle;
+}
+
+tbody tr{
+  vertical-align: middle;
+}
+
+table{
+  background-color: white;
+}
+
+.btn-square-md {
+  width: 100px !important;
+  max-width: 81px !important;
+  max-height: 64px !important;
+  height: 100px !important;
+  text-align: center;
+  padding: 0px;
+  font-size:20px;
+  }
+
+/* thead .table tr th {
+  min-height: 43px;
+} */
+/* class="table" style="background-color:#264653; color: white;" */
+
+
